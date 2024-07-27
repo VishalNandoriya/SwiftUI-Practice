@@ -13,5 +13,6 @@ This SwiftUI-Practice demonstrates the fundamental concepts and features of Appl
 | Demo                                                                      |  Renderings                                                                                                        
 | ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  
 | [Text-SwiftUI           ](SwiftUI-Content/Text-SwiftUI)           |  ![Text-SwiftUI            ](SwiftUI-Content/Text-SwiftUI/Text-SwiftUI.gif)     
-| [Image-SwiftUI           ](SwiftUI-Content/Image-SwiftUI)           |  ![Image-SwiftUI            ](SwiftUI-Content/Image-SwiftUI/Image-SwiftUI.gif)     
+| [Image-SwiftUI           ](SwiftUI-Content/Image-SwiftUI)           |  ![Image-SwiftUI            ](SwiftUI-Content/Image-SwiftUI/Image-SwiftUI.gif)   
+| [Stack-SwiftUI           ](SwiftUI-ViewLayout/Stack-SwiftUI)           |  ![Stack-SwiftUI            ](SwiftUI-ViewLayout/Stack-SwiftUI/Stack.gif)    
 
