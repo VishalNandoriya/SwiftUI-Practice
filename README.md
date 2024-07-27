@@ -8,5 +8,6 @@ It is designed to help developers understand and implement various SwiftUI compo
 
 | Demo                                                                      |  Renderings                                                                                                        
 | ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  
-| [Text-SwiftUI           ](SwiftUI-Content/Text-SwiftUI)           |  ![Text-SwiftUI            ](SwiftUI-Content/Text-SwiftUI/Text-SwiftUI.gif)                     
+| [Text-SwiftUI           ](SwiftUI-Content/Text-SwiftUI)           |  ![Text-SwiftUI            ](SwiftUI-Content/Text-SwiftUI/Text-SwiftUI.gif)     
+| [Image-SwiftUI           ](SwiftUI-Content/Image-SwiftUI)           |  ![Image-SwiftUI            ](SwiftUI-Content/Image-SwiftUI/Image-SwiftUI.gif)     
 
